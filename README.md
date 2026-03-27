@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey 👋 I'm Mohdee
 
-<!--
-**Codeknight399/Codeknight399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring IoT & Backend Developer  
+🐧 Linux Enthusiast  
+⚙️ Passionate about building real-world systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- Learning Linux deeply
+- Backend development
+- Exploring IoT systems
+
+---
+
+## 🧠 Goals
+- Build real-world IoT projects
+- Become a skilled backend engineer
+- Stay consistent and disciplined
+
+---
+
+## 📈 Philosophy
+Silent grinding. Consistency over hype.
+
+---
+
+## 📫 Contact
+- Email: codeknight105@email.com
