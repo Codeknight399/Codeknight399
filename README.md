@@ -23,7 +23,8 @@
 ## 🛠️ Tech Stack (Learning)
 - Python  
 - Git & GitHub  
-- Linux  
+- Linux
+- IoT  
 
 ---
 
