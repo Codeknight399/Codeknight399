@@ -1,29 +1,36 @@
-# Hey 👋 I'm Mohdee
+# 👋 Hi, I'm Mohdee
 
-💻 Aspiring IoT & Backend Developer  
-🐧 Linux Enthusiast  
-⚙️ Passionate about building real-world systems  
+💡 IoT & Embedded Systems Enthusiast  
+🐍 Python Developer in Progress  
+🤖 Passionate about Automation & AI  
 
 ---
 
 ## 🚀 Current Focus
-- Learning Linux deeply
-- Backend development
-- Exploring IoT systems
+- Learning Python (100 Days of Code)
+- Exploring IoT & Embedded Systems  
+- Building automation-based projects  
 
 ---
 
 ## 🧠 Goals
-- Build real-world IoT projects
-- Become a skilled backend engineer
-- Stay consistent and disciplined
+- Build real-world IoT & smart system projects  
+- Integrate AI into automation systems  
+- Become a skilled IoT engineer  
+
+---
+
+## 🛠️ Tech Stack (Learning)
+- Python  
+- Git & GitHub  
+- Linux  
 
 ---
 
 ## 📈 Philosophy
-Silent grinding. Consistency over hype.
+> Consistency over hype. Silent grinding.
 
 ---
 
 ## 📫 Contact
-- Email: codeknight105@email.com
+📧 codeknight105@email.com
