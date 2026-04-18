@@ -1,30 +1,20 @@
 # 👋 Hi, I'm Mohdee
-
-💡 IoT & Embedded Systems Enthusiast  
-🐍 Python Developer in Progress  
-🤖 Passionate about Automation & AI  
-
+💡 Backend Developer | IoT & Linux Systems | Building Smart Solutions for Dubai  
 ---
 
 ## 🚀 Current Focus
-- Learning Python (100 Days of Code)
-- Exploring IoT & Embedded Systems  
-- Building automation-based projects  
-
+-  I’m currently building *Villa Management IoT Backend* with PHP 
+- 🌱 Learning *Advanced Python & Flask* via London App Brewery Bootcamp  
+- 🐧 Daily Driver: *Debian 12 + i3wm* | Terminal-first workflow
 ---
 
 ## 🧠 Goals
-- Build real-world IoT & smart system projects  
-- Integrate AI into automation systems  
-- Become a skilled IoT engineer  
-
+- Goal: *Ship real-world IoT systems for PropTech & HealthTech*
+- 💬 Ask me about *Python, Linux, IoT, Backend APIs*
 ---
 
-## 🛠️ Tech Stack (Learning)
-- Python  
-- Git & GitHub  
-- Linux
-- IoT  
+## Message
+- Ask me about *Python, Linux, IoT, Backend APIs*
 
 ---
 
@@ -34,4 +24,4 @@
 ---
 
 ## 📫 Contact
-📧 codeknight105@email.com
+Reach me: *codeknight105@gmail.com*
