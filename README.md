@@ -9,6 +9,7 @@
 -  I’m currently building *Villa Management IoT Backend* with PHP 
 - 🌱 Learning *Advanced Python & Flask* via London App Brewery Bootcamp  
 - 🐧 Daily Driver: *Debian 12 + i3wm* | Terminal-first workflow
+- Arduino kit & Raspberry pi programming
 ---
 
 ## 🧠 Goals
@@ -26,8 +27,8 @@
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Message
-- Ask me about *Python, Linux, IoT, Backend APIs*
+## Ask me about
+- *Python, Linux, IoT, Backend APIs*
 ---
 
 ## 📈 Philosophy
