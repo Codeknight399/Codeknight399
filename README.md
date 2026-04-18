@@ -9,7 +9,7 @@
 -  I’m currently building *Villa Management IoT Backend* with PHP 
 - 🌱 Learning *Advanced Python & Flask* via London App Brewery Bootcamp  
 - 🐧 Daily Driver: *Debian 12 + i3wm* | Terminal-first workflow
-- Arduino kit & Raspberry pi programming
+- Raspberry pi configuration + programming
 ---
 
 ## 🧠 Goals
