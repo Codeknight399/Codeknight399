@@ -28,7 +28,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Ask me about
-- *Python, Linux, IoT, Backend APIs*
+- *Python, Linux, IoT, Arduino, Backend & APIs*
 ---
 
 ## 📈 Philosophy
