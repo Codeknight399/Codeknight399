@@ -7,7 +7,7 @@
 
 ## 🚀 Current Focus
 -  I’m currently building *Villa Management IoT Backend* with PHP 
-- 🌱 Learning *Advanced Python & Flask* via London App Brewery Bootcamp  
+- 🌱 Learning *Advanced Python & Flask* via London App Brewery Bootcamp 
 - 🐧 Daily Driver: *Debian 12 + i3wm* | Terminal-first workflow
 - REST APIs, Database Design, Linux Server Deployment
 ---
