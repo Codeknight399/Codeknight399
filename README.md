@@ -2,7 +2,7 @@
 - Building Smart Solutions for Dubai
 
 # 👋 Hi, I'm Mohdee
-💡 Backend Developer | IoT & Linux Systems | Building Smart Solutions for Dubai  
+💡IoT Backend Engineer | Smart Infrastructure Systems | Python & Linux
 ---
 
 ## 🚀 Current Focus
@@ -19,7 +19,6 @@
 
 ## Tech stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
@@ -28,7 +27,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Ask me about
-- *Python, PHP, Linux, Backend APIs, MySQL, Bash Scripting*
+- *Python,Linux, Backend APIs, MySQL, Bash Scripting*
 ---
 
 ## 📈 Philosophy
