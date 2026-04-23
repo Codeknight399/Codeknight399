@@ -19,7 +19,7 @@
 
 ## Tech stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=c++&logoColor=white)
+![C++](https://[img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=c++&logoColor=white](https://th.bing.com/th/id/OIP.En4ful2PvArRay0uoyV81QHaFj?w=257&h=194&c=7&r=0&o=7&pid=1.7&rm=3))
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
