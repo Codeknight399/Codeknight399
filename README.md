@@ -1,5 +1,3 @@
-## Title
-- Building Smart Solutions for Dubai
 
 # 👋 Hi, I'm Mohdee
 💡IoT Backend Engineer | Smart Infrastructure Systems | Python & Linux
