@@ -18,39 +18,14 @@ My focus is on **real-world applications** in:
 
 ## 🚀 Current Work
 
-* Building a **Villa Management IoT Backend System** (PHP + MySQL + API Design)
+* Building a **Villa Management IoT Backend System** (flask + MySQL + API Design)
 * Developing **scalable REST APIs** for smart systems integration
 * Deploying backend services on **Linux servers using Docker**
 * Exploring **cloud-based IoT architectures**
 
 ---
 
-# 👋 Hi, I'm Mohamed Adam
 
-💡 IoT Backend Engineer | Smart Infrastructure Systems | Python, Linux & Cloud
-
----
-
-## 🏗️ What I Do
-
-I design and build backend systems that power **smart infrastructure and connected devices** — from property management platforms to IoT monitoring systems.
-
-My focus is on **real-world applications** in:
-
-* 🏢 Smart Buildings & Property Management (PropTech)
-* 📡 IoT Device Monitoring & Automation
-* 🏥 HealthTech Systems
-
----
-
-## 🚀 Current Work
-
-* Building a **Villa Management IoT Backend System** (PHP + MySQL + API Design)
-* Developing **scalable REST APIs** for smart systems integration
-* Deploying backend services on **Linux servers using Docker**
-* Exploring **cloud-based IoT architectures**
-
----
 
 ## 🧠 Technical Skills
 
@@ -121,7 +96,7 @@ Building **production-ready IoT and backend systems** for:
 
 ## 📫 Let’s Connect
 
-* Email: [codeknight105@gmail.com](mailto:codeknight105@gmail.com)
+* Email: [codeknight399@gmail.com](mailto:codeknight399@gmail.com)
 * Location: Dar es Salaam, Tanzania
 * Open to opportunities in: UAE, UK, Saudi Arabia, Qatar, Australia
 
