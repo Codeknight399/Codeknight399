@@ -96,7 +96,7 @@ Building **production-ready IoT and backend systems** for:
 
 ## 📫 Let’s Connect
 
-* Email: [codeknight399@gmail.com](mailto:codeknight399@gmail.com)
+* Email: [codeknight105@gmail.com](mailto:codeknight105@gmail.com)
 * Location: Dar es Salaam, Tanzania
 * Open to opportunities in: UAE, UK, Saudi Arabia, Qatar, Australia
 
