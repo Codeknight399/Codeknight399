@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohamed Adam
 
-💡 IoT Backend Engineer | Smart Infrastructure Systems | Python, JavaScript ,Linux & Cloud
+💡 IoT Backend Engineer | Smart Infrastructure Systems | Python,Linux & Cloud
 
 ---
 
