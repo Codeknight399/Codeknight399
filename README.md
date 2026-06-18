@@ -29,12 +29,11 @@ My focus is on **real-world applications** in:
 
 ## 🧠 Technical Skills
 
-### 🔹 frontend & Backend & APIs
+### 🔹Backend & APIs
 
 * Python (Flask, Django)
 * PHP
 * REST API Design & Integration
-* JavaScript 
 
 ### 🔹 Databases
 
